@@ -1,6 +1,49 @@
-.main-gist{
+.main-topic {
 	text-align: center;
 	font-size: 60px;
+	font-weight: normal;
 	font-family: cursive;
 	margin: 60px 0;
+}
+.story-image {
+	width: 100%;
+}
+.story-title {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 30px;
+	margin: 15px 0;
+	text-align: center;
+}
+.story-text {
+	line-height: 1.5;
+	font-size: 16px;
+}
+.row {
+	display: flex;
+	align-items: stretch;
+}
+
+.story {
+	border: 1px solid #333;
+	padding: 5px;
+}
+.quarter{
+	width: 25%;
+	flex-grow: 1;
+}
+.half{
+	width: 50%;
+	flex-grow: 2;
+}
+.three-quarter {
+	width: 75%;
+}
+.nav-list {
+	display: flex;
+	flex-direction: column;
+}
+.nav-item {
+	width: 100%;
+	flex: 1;
 }
