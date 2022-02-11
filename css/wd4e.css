@@ -1,0 +1,28 @@
+body{
+	background: #B3B3B3;
+	font-size: 150%;
+	margin: 4%;
+}
+header{
+	background: #666666;
+	text-align: center;
+	padding: 15px;
+}
+h1{
+	color: #FFFFFF;
+}
+h2{
+	color: #FF00FF;
+	background: #00B7ea;
+}
+section{
+	width: 30%;
+	margin-right: 2%;
+	display: inline-block;
+	float: left;
+}
+nav a{
+	width: 22%;
+	display: inline-block;
+	background: #FFFFFF;
+}
