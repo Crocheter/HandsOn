@@ -22,3 +22,4 @@ if (lightIsOn) {
     console.log("The light is _ not on!")
 }
 // always use triple =
+// context is similar to scope
