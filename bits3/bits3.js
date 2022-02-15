@@ -25,4 +25,16 @@ if (lightIsOn) {
 // context is similar to scope, 
 // topics to read again: 
 // Arrays are ordered list of anything or something, we use the square brackets, there is something called "join", another called "push"
-//
+const character = "a";
+const timesToRepeat = 50;
+let answer = '';
+for (let i = 0; i <= timesToRepeat; i++){
+    answer += character;
+}
+console.log(answer);
+
+// Events and listeners
+const button = document.querySelector('.event-button');
+button.addEventListener('click', function () {
+    alert("Hey there!");
+});
