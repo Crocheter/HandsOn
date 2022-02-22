@@ -1,9 +1,17 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+:root {
+
+}
 body {
     background-color: #5BBCCD;
 }
 
 .logo {
-    display: inline-block;
+    
 }
 
 .rectangle {
@@ -13,6 +21,14 @@ body {
     left: 295px;
     top: 2px;
     background: #FFFFFF;
+}
+
+.nav-items{
+    display
+}
+
+.nav-holder {
+    display: flex;
 }
 
 .clouds {

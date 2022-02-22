@@ -1,0 +1,164 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+:root {
+    
+}
+
+body {
+    width: 100%;
+}
+.header {
+    background-color: #0938B1;
+    position: absolute;
+    width: 1728px;
+    height: 130px;
+    left: 0px;
+    top: 0px;
+}
+
+.company-name {
+    color: #FFFFFF;
+    position: absolute;
+    width: 170px;
+    height: 41px;
+    left: 150px;
+    top: 49px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 41px;
+}
+
+.contact {
+    background-color: #F2BD00;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 23.0946px 47.7818px;
+
+    position: absolute;
+    border-radius: 6.37091px;
+    float: right;
+    margin-left: 1500px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+
+}
+
+.bg-picture {
+    position: absolute;
+width: 1728px;
+height: 1229px;
+left: 0px;
+top: 0px;
+}
+
+.animation{
+    float: right;
+    position: absolute;
+    width: 845.47px;
+    height: 625.13px;
+    left: 737px;
+    top: 331.73px;
+
+}
+
+.text {
+    color: #263238;
+    position: absolute;
+    width: 551px;
+    height: 184px;
+    left: 150px;
+    top: 275px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 76px;
+    line-height: 92px;
+
+}
+
+h3 {
+    position: absolute;
+    width: 587px;
+    height: 117px;
+    left: 150px;
+    top: 528px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #263238;
+
+}
+
+.up-curve {
+    position: absolute;
+    width: 152px;
+    height: 34.13px;
+    left: 329px;
+    top: 500px;
+    right: 1247px;
+    bottom: 755.87px;
+
+    color: #00A224;
+}
+
+.second-contact {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 28.3265px 58.6066px;
+
+    position: absolute;
+    width: 307.33px;
+    height: 94.68px;
+    left: calc(50% - 307.33px/2 - 557.66px);
+    top: 708.21px;
+
+
+    background: #0938B1;
+    border-radius: 7.81421px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31.8902px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.green-rectangle {
+    position: absolute;
+    width: 276px;
+    height: 17px;
+    left: 0px;
+    bottom: 0px;
+
+    background: #00A224;
+}
+
+.red-rectangle {
+    position: absolute;
+    width: 276px;
+    height: 17px;
+    left: 276px;
+    bottom: 0px;
+    background: #E41B0E;
+}
