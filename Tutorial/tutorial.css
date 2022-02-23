@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+:root {
+    --color-black: #000000;
+    --color-grey
+}
+
+body {
+    font-family: 'Source sans pro', sans-serif;
+}

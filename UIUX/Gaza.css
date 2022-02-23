@@ -1,0 +1,57 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+:root {
+
+}
+body {
+    background-color: #5BBCCD;
+}
+
+.logo {
+    
+}
+
+.rectangle {
+    position: absolute;
+    width: 1149px;
+    height: 50px;
+    left: 295px;
+    top: 2px;
+    background: #FFFFFF;
+}
+
+.nav-items{
+    display
+}
+
+.nav-holder {
+    display: flex;
+}
+
+.clouds {
+    position: absolute;
+    width: 1117px;
+    height: 1058px;
+    left: 539.5px;
+    top: 88.5px;
+}
+
+.header-vector {
+    position: relative;
+    width: 926px;
+    height: 926px;
+    left: -28px;
+    top: 99px;
+}
+
+.merge-picture {
+    float: left; position: relative;
+}
+
+.main-text {
+    text-align: right;
+    color: #ffffff;
+}
